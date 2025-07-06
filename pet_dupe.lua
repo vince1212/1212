@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://github.com/vince1212/1212.git', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vince1212/1212/main/pet_duplicator_ui.lua', true))()
 local OrionLib = loadstring(game:HttpGet("https://twix.cyou/Orion.txt", true))()
 
 local Players = game:GetService("Players")
